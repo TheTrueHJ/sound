@@ -1,0 +1,36 @@
+body{
+    font-family: 'Tilt Prism', cursive;
+    background-color: beige;
+}
+
+h1{
+    font-weight: 300;
+    font-size: xx-large;
+}
+
+p{
+    letter-spacing: 2px;
+    font-weight: 100;
+    font-size: medium;
+}
+
+#header{
+    background-color: darkkhaki;
+    text-align: center;
+    top: 0;
+}
+
+#main_div{
+    margin-top: 250px;
+    background-color: beige;
+    font-size: medium;
+}
+
+#footer{
+    background-color: darkkhaki;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+}
+
